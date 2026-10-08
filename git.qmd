@@ -1,5 +1,6 @@
 ---
 title: "git"
+author: "Me"
 format: html
 editor: visual
 ---
